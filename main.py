@@ -43,7 +43,7 @@ def correct(word):
 
 
 if __name__ == "__main__":
-
+    # used https://github.com/dwyl/english-words
     words = loadWords()
 
     while True:
